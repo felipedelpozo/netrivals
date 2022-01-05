@@ -6,6 +6,11 @@ This project is available online at [netrivals.web.app](https://netrivals.web.ap
 
 In the project directory, you can run:
 
+## Installation
+
+    npm install or yarn
+    cp env.template to .env.local
+
 ### `yarn start`
 
 Runs the app in the development mode.\
