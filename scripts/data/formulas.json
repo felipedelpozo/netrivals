@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Discount 5%",
+    "value": "p - (p * 0.05)"
+  },
+  {
+    "name": "Discount 15%",
+    "value": "p - (p * 0.15)"
+  },
+  {
+    "name": "Discount 20%",
+    "value": "p - (p * 0.20)"
+  },
+  {
+    "name": "Discount 25%",
+    "value": "p - (p * 0.25)"
+  },
+  {
+    "name": "Benefit 5%",
+    "value": "p * 1.05"
+  },
+  {
+    "name": "Benefit 15%",
+    "value": "p * 1.15"
+  },
+  {
+    "name": "Benefit 20%",
+    "value": "p * 1.20"
+  },
+  {
+    "name": "Benefit 25%",
+    "value": "p * 1.25"
+  }
+]
